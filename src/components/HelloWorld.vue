@@ -3,7 +3,7 @@
     diyici
     <h1>{{ msg }}</h1>
     <p>
-      88888888888888888888<br>
+      6666<br>
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
