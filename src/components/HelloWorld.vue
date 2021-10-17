@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    diyici
+    diyiciutyurturt
     <h1>{{ msg }}</h1>
     <p>
     963.8527410<br>
